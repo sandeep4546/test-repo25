@@ -1,4 +1,9 @@
 class hello
 {
+	{
+		hello world
+	}
+
+
 }
 
